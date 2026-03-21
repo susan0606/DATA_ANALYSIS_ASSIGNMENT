@@ -38,7 +38,6 @@ https://www.youtube.com/watch?v=hhbzUEQWdTg&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 
 ## 01. 불필요한 데이터 삭제하기
 
-핵심 개념 정리
 데이터 정제는 데이터 분석 목적에 맞게 손상되거나 불필요한 값을 수정하고 삭제하는 필수 작업이다. 데이터 랭글링 또는 데이터 먼징이라고도 부른다.
 
 행과 열 선택 및 필터링
